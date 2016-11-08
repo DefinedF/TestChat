@@ -1,4 +1,4 @@
-package client;
+package TestChat.client;
 
 
 
@@ -23,8 +23,6 @@ import java.net.Socket;
 
 
 
-            // это IP-адрес компьютера, где исполняется наша серверная программа.
-            // Здесь указан адрес того самого компьютера где будет исполняться и клиент.
 
             try {
                 InetAddress ipAddress = InetAddress.getByName(address.trim()); // создаем объект который отображает вышеописанный IP-адрес.

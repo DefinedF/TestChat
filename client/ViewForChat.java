@@ -1,4 +1,4 @@
-package client;
+package TestChat.client;
 
 import javax.imageio.ImageIO;
 import javax.sound.midi.MidiChannel;
